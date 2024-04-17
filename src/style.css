@@ -1,3 +1,10 @@
+@font-face {
+  font-family: "JacquesFrancoisShadow-Regular";
+  font-style: normal;
+  font-format: truetype;
+  font-weight: 400;
+  src: url("/fonts/jacquesfrancoisshadow-regular.ttf") ;
+}
 :root {
   --dl-color-pink-50: rgba(253, 241, 249, 1);
   --dl-color-gray-500: #595959;
