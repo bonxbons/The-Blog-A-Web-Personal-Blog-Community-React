@@ -1,0 +1,19 @@
+.supportingtext-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.supportingtext-dummy-container {
+  width: 100%;
+  height: 900px;
+}
+.supportingtext-text {
+  color: rgba(102, 112, 132, 1);
+  height: auto;
+  align-self: stretch;
+  text-align: left;
+  line-height: 24px;
+}
